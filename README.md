@@ -25,7 +25,7 @@ A curated list with open-source **[Flask](https://appseed.us/apps/flask/)** apps
 
 ## ✨ [Soft Design System Flask](https://appseed.us/product/soft-ui-design/flask/)
 
-**[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system)** is a Premium Bootstrap 5 UI Kit designed by [Creative-Tim](https://bit.ly/3fKQZaL) designed for those who like bold elements and beautiful websites. **Soft UI Design System Flask**  is a simple Flask starter provided by AppSeed with a modular codebase, database, authentication and deployment scripts
+**[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system)** is a Premium Bootstrap 5 UI Kit designed by [Creative-Tim](https://bit.ly/3fKQZaL) for those who like bold elements and beautiful websites. **Soft UI Design System Flask**  is a simple Flask starter provided by AppSeed with a modular codebase, database, authentication and deployment scripts
 
 - [Soft Design System Flask](https://appseed.us/product/soft-ui-design/flask/) - `product page`
 - [Soft Design System Flask](https://flask-soft-ui-free.appseed-srv1.com/) - `LIVE Demo`
